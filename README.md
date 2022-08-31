@@ -19,9 +19,8 @@ Arduino Code for Maker Nano Education Microcontroller
 
 #### Analog Inputs:
 - Pin A0 - A7 can be used to read analog signals.
-These are variable voltage values. Where 0V - 5V is
-read and converted to a numerical value from 0 - 1023,
-(eg. if a signal of 2.5V is input, a value of 512 will be returned.
+- These are variable voltage values. 
+- Where 0V - 5V is read and converted to a numerical value between 0 - 1023.
 
 #### The controller has 12 addressable LEDS.(D2 - D13)
 Using the LEDS on D2,D3,D8 should be avoided, as:
